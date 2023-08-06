@@ -1,0 +1,39 @@
+Publisher Events:
+
+1. New User Account Created (Published Event:  	NewUserAccountCreatedEvent)
+
+2. Subscription Created
+   (Published Event: SubscriptionCreatedEvent)
+
+3. User Channel Created
+    	(Published Event: UserChannelCreatedEvent)
+
+4. Video Uploaded (Published Event: videoUploadedEvent)
+
+5. New Subscriber in Channel(Published Event: 	NewSubscriberEvent)
+
+6. Video Published in Channel (Published Event: 	VideoPublishedEvent)
+
+7. Video Liked(Published Event: VideoLikedEvent)
+
+8. Video Commented (Published Event: VideoCommentedEvent)
+
+9. Video Shared (Published Event: VideoSharedEvent)
+
+
+
+Subscriber Events:
+
+1. User Login (Subscribed Event: UserLoginEvent)
+
+2. New Video Notification (Subscribed Event:		NewVideoNotificationEvent)
+
+3. New Comment Notification
+   (Subscribed Event: NewCommentNotificationEvent)
+
+4. Video Liked Notification (Subscribed Event:     	VideoLikedNotificationEvent )
+
+5. Channel Update Notification
+   ( Subscribed Event: ChannelUpdateNotificationEvent)
+
+
